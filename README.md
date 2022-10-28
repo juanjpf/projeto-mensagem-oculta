@@ -29,7 +29,7 @@ Utilizei como base as aulas e códigos demostrados em aulas do curso. Busquei al
 Realizei uma única versão do projeto e utilizei cores escuras e uma fonte que combinaria com um fundo animado. 
 
 
-![image](https://)
+![image](https://raw.githubusercontent.com/juanjpf/projeto-mensagem-oculta/main/images/demo.PNG)
 
 
 📌 Link do projeto no github Pages: https://juanjpf.github.io/projeto-mensagem-oculta/
