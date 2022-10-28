@@ -26,7 +26,7 @@ Utilizei como base as aulas e códigos demostrados em aulas do curso. Busquei al
 ## 📄 Versão
 
 
-Realizei uma única versão do projeto e utilizei cores escuras e uma fonte que combinaria com um fundo animado. 
+Realizei uma única versão do projeto e utilizei cores vivas e bem chamativas, e com uma fonte branca que combinaria com um fundo animado. 
 
 
 ![image](https://raw.githubusercontent.com/juanjpf/projeto-mensagem-oculta/main/images/demo.PNG)
